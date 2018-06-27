@@ -1,0 +1,34 @@
+.App {
+  width: 200px;
+  /* height: 100px; */
+}
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+.light {
+  font-weight: 300;
+}
+
+.center {
+  text-align: center;
+  border: solid
+}
+
+.image-styles{
+  width: 85%
+}
+
+.button-style{
+  border: none
+}
+
+.arrows{
+  width: 75%;
+}
+
+button:focus {outline:0;}
+
+.align{
+  border: solid;
+}
