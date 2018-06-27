@@ -1,4 +1,4 @@
-#CryptoStrikers Chrome App
+# CryptoStrikers Chrome App
 
 The app shows the last sold card, price, & time of sale.
 
