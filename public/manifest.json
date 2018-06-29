@@ -8,5 +8,12 @@
     "16": "icon.png",
     "48": "icon.png",
     "128": "icon.png" },
-  "version": "1.0"
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": true
+    },
+    "permissions": [
+      "storage"
+    ],
+  "version": "1.1.1"
 }
