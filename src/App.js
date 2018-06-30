@@ -97,8 +97,6 @@ class App extends Component {
         </div>
         );
     }
-  
-
     return (
       <div className="App center">
         <div className="align">
