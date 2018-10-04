@@ -1,0 +1,14 @@
+{
+    "extends": "airbnb",
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "rules": {
+        "indent": ["error", 4],
+        "react/jsx-indent": ["error", 4],
+        "react/jsx-one-expression-per-line": 0,
+        "react/no-access-state-in-setstate": 0,
+        "eslint implicit-arrow-linebreak": 0
+    }
+}
